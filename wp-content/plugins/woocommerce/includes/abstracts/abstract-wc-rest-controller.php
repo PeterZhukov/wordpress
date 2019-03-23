@@ -79,7 +79,7 @@ abstract class WC_REST_Controller extends WP_REST_Controller {
 
 	/**
 	 * Get normalized rest base.
-	 *
+	 *z
 	 * @return string
 	 */
 	protected function get_normalized_rest_base() {
